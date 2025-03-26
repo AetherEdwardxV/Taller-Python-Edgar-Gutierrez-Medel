@@ -1,0 +1,22 @@
+{
+  "personas":[
+      {
+              "Nombre": "Federico Peluche",
+              "Edad":45,
+              "Ciudad":"San Martin Texmelucan ",
+              "Estado": "Puebla"
+      },
+    {
+              "Nombre": "Brayan Perez Pereira",
+              "Edad":50,
+              "Ciudad":"San Baltazar ",
+              "Estado": "Puebla"
+      },
+    {
+              "Nombre": "Kevin Aranza Pelaez",
+              "Edad":10,
+              "Ciudad":"Tlanalapa ",
+              "Estado": "Puebla"
+      }
+  ]
+}
