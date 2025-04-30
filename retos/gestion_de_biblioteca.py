@@ -36,7 +36,7 @@ def buscar_libro(lista_libros:list,categoria:str,clave:str):
         case "autor": print(list(e for e in lista_libros if e['Autor'] ==  clave))
         case "genero": print(list(e for e in lista_libros if e['Genero'] == clave))
 
-def prestar_libro(libro:str,disponibles:list,prestados:list):
+#def prestar_libro(libro:str,disponibles:list,prestados:list):
 
 
 
